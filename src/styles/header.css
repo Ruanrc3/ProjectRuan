@@ -38,5 +38,6 @@ header {
 
 .profile-container img {
   position: relative;
-  top: 10px;
-}
+  width: 100%;
+  height: auto;
+
